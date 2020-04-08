@@ -8,6 +8,7 @@ Berikut adalah persyaratan dari tutorial yang dibuat:
 2. Materi yang dibahas sesuai dengan modul praktikum.
 3. Studi kasus harus berbeda dengan soal jurnal.
 4. Penjelasan langkah per langkah dan mudah dipahami.
+5. Tutorial merupakan karya sendiri (bukan plagiat).
 
 ## Tata Cara Berkontribusi
 Ikuti langkah-langkah berikut agar kontribusimu diakui:
